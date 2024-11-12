@@ -20,4 +20,4 @@
 
 ## Результаты тестов
 
-![Скриншот] (/Users/juliavediukova/STUDY/конфигурационное управление/hw_conf_man_1/tests_hw1.png)
+![Скриншот] (tests_hw1.png)
